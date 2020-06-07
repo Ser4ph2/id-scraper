@@ -1,2 +1,2 @@
 language = "bash"
-run = "./id_scraper.py"
+run = "python3 id_scraper.py"
