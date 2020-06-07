@@ -8,7 +8,7 @@ Running locally:
 - Install script dependencies (bs4, tvdbsimple, requests)
 - Execute script
 Alternative:
-- Go to https://repl.it/github/Ser4ph2/id-scraper and click "Run at the top" to execute in browser
+- Go to https://repl.it/github/Ser4ph2/id-scraper and click "Run" at the top to execute in browser
 
 ## Planned Features
 - Implement proper searching instead of exact matching 
