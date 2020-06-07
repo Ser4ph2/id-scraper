@@ -1,0 +1,2 @@
+language = "bash"
+run = "./id_scraper.py"
